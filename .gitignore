@@ -1,0 +1,33 @@
+# Compiled Java class files and build directories
+*.class
+bin/
+out/
+target/
+build/
+
+# Game runtime save and highscore data files
+*.dat
+fpGameSave.dat
+highscore.dat
+
+# Package Files
+*.jar
+!lib/*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE and Editor specific files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
