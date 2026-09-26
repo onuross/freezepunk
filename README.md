@@ -9,7 +9,7 @@
 
 **Freezepunk** is a lightweight, turn-based survival and resource-management game inspired by *Frostpunk*. You lead a settlement of **50 survivors** through an ever-worsening winter, balancing daily labor allocation across coal mines, forests, and hunting grounds to keep the generator running and your people alive.
 
-> *This interactive UI project was originally developed during the Object-Oriented Programming (Programmierung 2) course at HTW Dresden and has been refactored to be published.*
+> *This interactive UI project was originally developed during the Object-Oriented Programming (Programmierung 2) course at HTW Dresden and has been refactored to align with Clean Code, MVC separation, and OOP best practices.*
 
 ---
 
